@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 👋
+
+- 📡 I'm an astrophysicist, working on radio observations of Gamma-ray bursts
+- 📫 email me at stefano.giarratana@inaf.it
 
 <!--
 **giarratanastefano/giarratanastefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
